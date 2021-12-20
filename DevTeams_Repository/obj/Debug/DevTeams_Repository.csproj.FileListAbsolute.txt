@@ -1,0 +1,9 @@
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams_Repository\bin\Debug\DevTeams_Repository.dll
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams_Repository\bin\Debug\DevTeams_Repository.pdb
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams_Repository\bin\Debug\DevTeams_POCOs.dll
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams_Repository\bin\Debug\DevTeams_POCOs.pdb
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams_Repository\obj\Debug\DevTeams_Repository.csproj.AssemblyReference.cache
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams_Repository\obj\Debug\DevTeams_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams_Repository\obj\Debug\DevTeams_Repository.csproj.CopyComplete
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams_Repository\obj\Debug\DevTeams_Repository.dll
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams_Repository\obj\Debug\DevTeams_Repository.pdb

@@ -1,0 +1,13 @@
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams.UI\bin\Debug\DevTeams.UI.exe.config
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams.UI\bin\Debug\DevTeams.UI.exe
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams.UI\bin\Debug\DevTeams.UI.pdb
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams.UI\bin\Debug\DevTeams_Repository.dll
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams.UI\bin\Debug\DevTeams_POCOs.dll
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams.UI\bin\Debug\DevTeams_Repository.pdb
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams.UI\bin\Debug\DevTeams_POCOs.pdb
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams.UI\obj\Debug\DevTeams.UI.csproj.AssemblyReference.cache
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams.UI\obj\Debug\DevTeams.UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams.UI\obj\Debug\DevTeams.UI.csproj.CoreCompileInputs.cache
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams.UI\obj\Debug\DevTeams.UI.csproj.CopyComplete
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams.UI\obj\Debug\DevTeams.UI.exe
+C:\Users\Landon\source\repos\DevTeams_Repository\DevTeams.UI\obj\Debug\DevTeams.UI.pdb

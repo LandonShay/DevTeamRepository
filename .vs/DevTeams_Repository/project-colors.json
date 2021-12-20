@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71083118-caf9-43e1-944a-24d9ce29c513": {
+      "ProjectGuid": "71083118-caf9-43e1-944a-24d9ce29c513",
+      "DisplayName": "DevTeams_Repository",
+      "ColorIndex": 0
+    },
+    "d05fcea1-845f-4ad8-90b7-0cee7f856135": {
+      "ProjectGuid": "d05fcea1-845f-4ad8-90b7-0cee7f856135",
+      "DisplayName": "DevTeams_POCOs",
+      "ColorIndex": 1
+    },
+    "a66f855f-6831-4eb6-bb86-c48381a47ec9": {
+      "ProjectGuid": "a66f855f-6831-4eb6-bb86-c48381a47ec9",
+      "DisplayName": "DevTeams.UI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
